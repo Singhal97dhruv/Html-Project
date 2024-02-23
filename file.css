@@ -77,8 +77,6 @@ body {
       background-color: #67b6ac;
       > h3,
       h5 {
-        /* transition-delay: .3s; */
-        /* transition-timing-function: ease-in; */
         color: white;
       }
     }
